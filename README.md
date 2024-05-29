@@ -1,2 +1,2 @@
-# Randomwalk web site
+# Random Walk web site
 Work in Progress
