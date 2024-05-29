@@ -1,2 +1,2 @@
-# randomwalk_site
-Web site for randomwalk
+# Randomwalk web site
+Work in Progress
